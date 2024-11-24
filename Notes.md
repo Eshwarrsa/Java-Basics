@@ -28,3 +28,27 @@
 System.out.println("Hii");
 ```
 
+## Operators:
+&nbsp; Operator can be defined as the symbols that conducts a specific task with its operands. According to the operands we can classify operators into three. They are:
+* Uniary Operator
+* Binary Operator
+* Ternery Operator
+&nbsp; According to the operation we can classify operator into five types. They are:
+* Arithmetic Operator
+* Relational Operator
+* Logical Operator
+* Bitwise Operator
+* Ternery operator
+
+### Arithmetic Operator:
+&nbsp; Arithmetic Operator are the operator which are used to perform some basic arithmetic operation. They are seven types of arithmetic operator:
+* `++`var or var`++`
+* `--`var or var`--`
+* var1 `+` var2
+* var1 `-` var2
+* var1 `*` var2
+* var1 `/` var2
+* var1 `%` var2
+
+### Relational Operator:
+&nbsp;  
