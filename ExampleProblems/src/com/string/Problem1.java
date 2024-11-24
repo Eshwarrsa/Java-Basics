@@ -22,10 +22,7 @@ public class Problem1 {
 	
 	public static String reverse(String s) {
 		String temp = "";
-		for (int i = 0; i < s.length(); i++) 
-			temp = s.charAt(i) + temp;
-		
-		System.out.println(temp);
+		for (int i = 0; i < s.length(); temp = s.charAt(i) + temp, i++);
 		return temp;
 		
 	}
