@@ -33,6 +33,7 @@ System.out.println("Hii");
 * Uniary Operator
 * Binary Operator
 * Ternery Operator
+
 &nbsp; According to the operation we can classify operator into five types. They are:
 * Arithmetic Operator
 * Relational Operator
