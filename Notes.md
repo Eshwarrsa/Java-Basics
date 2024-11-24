@@ -13,3 +13,18 @@
 * comments
 
 ## keyword:
+&nbsp; keywords are the reserved word in java which has its own functnallity. It cannot be used for any other purpose. Some of the example are `class, public, static, void, boolean, int etc.,`.
+
+## Identifiers:
+&nbsp; Identifiers are the single character or a group of character which represents the memory location of a primitive value or memory address of non primitive value. They are certain rule to create identifiers. They are:
+* Identifiers can have all upper case, lower case, digits and special character which are `_` and `$`. 
+* Identifiers cannot have other special character except `_` and `$`. 
+* keywords cannot be used as identifiers. 
+* The identifier cannot start with an digit. 
+
+## literals:
+&nbsp; Literals are the constant value that is declared without any identifier representation. These cannot be modified after used. It is literlly we can use one time. For Example:
+```java
+System.out.println("Hii");
+```
+
