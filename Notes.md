@@ -43,13 +43,21 @@ System.out.println("Hii");
 
 ### Arithmetic Operator:
 &nbsp; Arithmetic Operator are the operator which are used to perform some basic arithmetic operation. They are seven types of arithmetic operator:
-* `++`var or var`++`
-* `--`var or var`--`
+* `++`var and var`++`
+* `--`var and var`--`
 * var1 `+` var2
 * var1 `-` var2
 * var1 `*` var2
 * var1 `/` var2
 * var1 `%` var2
 
+&nbsp; Except `++` and `--` other operators take two operands. `++` and `--` takes only one arguments. These operators can be used with `short, byte, int, long, float, double` only. The `+` is a overloaded operator where it is used to cancatenate two string also. 
+
 ### Relational Operator:
-&nbsp;  
+&nbsp; Relational Operator are the operator which compares the two operands and returns the boolean value accordingly. Some of the relational operator are:
+* `<=`
+* `>=`
+* `>`
+* `<`
+* `==`
+* `!=`
