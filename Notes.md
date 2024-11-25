@@ -61,3 +61,31 @@ System.out.println("Hii");
 * `<`
 * `==`
 * `!=`
+
+### Logical Operator:
+&nbsp; Logical operator are the operator which takes two operands as boolean and also returns the boolean value. There are three logical operator:
+* `&&` --> and
+* `||` --> or
+* `!` --> not
+
+### Bitwise Operator:
+&nbsp; Bitwise operator are the operator which takes two operands has numbers as input and return same datatype as output. Some of the bitwise operator are:
+* `&` --> and
+* `|` --> or
+* `^` --> xor
+
+### Ternery Operator:
+&nbsp; Ternery operator are the operator which has three operands according to the condition given in first opernds any one of the operands of second or third will be executed. The first operand should return boolean value. If the value is true the second operand will be executed otherwise the third operand will be executed. The syntax is:
+`var1 ? var2 : var3`. 
+
+## Seperator:
+&nbsp; Seperators are some symbols or brackets which seperates the execution of the code. These decides the scope of the code should be executed according to calling it. The property of certain symbol are:
+* `;` --> Tells the end of each line of code. 
+* `{}` --> Decides the scope of the method, class, blocks.
+
+## Comments:
+&nbsp; Comments are the non executable lines which makes us to maintain notes or explanation about the code. We can do comments in two ways. They are:
+* `/*----*/` --> Multiline commenting
+* `//---` --> Single line commenting
+
+  
