@@ -87,3 +87,6 @@ System.out.println("Hii");
 &nbsp; Comments are the non executable lines which makes us to maintain notes or explanation about the code. We can do comments in two ways. They are:
 * `/*----*/` --> Multiline commenting
 * `//---` --> Single line commenting
+
+# OOPS:
+&nbsp; The abbrevation of OOPS is Object Oriented Programming System. It is the programming paradigm where the program is built arrount the object or data not around the logic and function. In this data are considered as feilds and the property are considered as the method. 
