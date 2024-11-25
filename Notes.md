@@ -87,6 +87,3 @@ System.out.println("Hii");
 &nbsp; Comments are the non executable lines which makes us to maintain notes or explanation about the code. We can do comments in two ways. They are:
 * `/*----*/` --> Multiline commenting
 * `//---` --> Single line commenting
-
-
-w;qnfQOENLVK'np;QIF  
