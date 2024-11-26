@@ -90,3 +90,6 @@ System.out.println("Hii");
 
 # OOPS:
 &nbsp; The abbrevation of OOPS is Object Oriented Programming System. It is the programming paradigm where the program is built arrount the object or data not around the logic and function. In this data are considered as feilds and the property are considered as the method. 
+
+## Need for OOPS:
+&nbsp; OOPS is very much required because the building of program will not be arround the logic and function it will be building around the data or objects. With this approch we can maintain each physical entity as object and provide them individual property which improves the scalability. Since the code development around object maintaining the property is very easy. 
