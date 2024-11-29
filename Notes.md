@@ -1,4 +1,0 @@
-# **OOPS:**
-&nbsp; The abbrevation of OOPS is Object Oriented Programming System. In this approch we build code around the object or data not around the logic or function. In OOPS every physical entity is considered as object and their behaviour is considered as property. 
-## Key Principles of OOPS:
-&nbsp; By using the OOPS concept we can reduce code complexity and reuse the code. Maintaing these code will be easy when compared to other approch like procedural and functional approch. By using the abstraction we can hide the implementation of methods from the user. By using encapsulation we can provide data security. By using polymorphism we can make the method to behave in different manner according to the instance creation or arguments passed to it. By using inheritance we can reuse the code that is written in older version. So, These four pillars make OOPS to be most efficient way to write program. 
